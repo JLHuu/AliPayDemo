@@ -1,0 +1,21 @@
+//
+//  RLPrefix.pch
+//  MobilePays
+//
+//  Created by RichyLeo on 15/10/28.
+//  Copyright (c) 2015年 RL. All rights reserved.
+//
+
+#ifndef MobilePays_RLPrefix_pch
+#define MobilePays_RLPrefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+// 常量字符串
+#import "StringConstants.h"
+
+#endif
